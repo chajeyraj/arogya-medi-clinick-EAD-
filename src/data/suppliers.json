@@ -1,0 +1,76 @@
+[
+  {
+    "id": "1",
+    "name": "Lanka Pharma Ltd",
+    "contactPerson": "Sunil Rathnayake",
+    "email": "info@lankapharma.com",
+    "phone": "+94 11 234 5678",
+    "address": "45 Industry Zone, Colombo 10",
+    "registeredDate": "2020-01-15",
+    "leadTime": 3,
+    "paymentTerms": "Net 30",
+    "rating": 4.8,
+    "status": "active",
+    "products": [
+      "Paracetamol 500mg",
+      "Amoxicillin 250mg",
+      "Cetirizine 10mg",
+      "Omeprazole 20mg"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "MedPlus Distributors",
+    "contactPerson": "Priya Mendis",
+    "email": "orders@medplus.com",
+    "phone": "+94 11 345 6789",
+    "address": "78 Commerce St, Colombo 14",
+    "registeredDate": "2021-03-20",
+    "leadTime": 5,
+    "paymentTerms": "Net 45",
+    "rating": 4.2,
+    "status": "active",
+    "products": [
+      "Metformin 500mg",
+      "Atorvastatin 10mg",
+      "Losartan 50mg"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Global Meds Inc.",
+    "contactPerson": "David Silva",
+    "email": "sales@globalmeds.com",
+    "phone": "+94 11 456 7890",
+    "address": "123 Export Zone, Katunayake",
+    "registeredDate": "2019-08-10",
+    "leadTime": 7,
+    "paymentTerms": "Net 60",
+    "rating": 3.9,
+    "status": "inactive",
+    "products": [
+      "Salbutamol Inhaler",
+      "Insulin Glargine",
+      "Fluticasone Inhaler"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Sri Lanka Pharmaceuticals",
+    "contactPerson": "Nimal Perera",
+    "email": "nimal@slpharma.lk",
+    "phone": "+94 11 567 8901",
+    "address": "56 Health Avenue, Rajagiriya",
+    "registeredDate": "2022-02-15",
+    "leadTime": 2,
+    "paymentTerms": "Net 15",
+    "rating": 4.5,
+    "status": "active",
+    "products": [
+      "Paracetamol 500mg",
+      "Cetirizine 10mg",
+      "Omeprazole 20mg",
+      "Metformin 500mg"
+    ]
+  }
+]
